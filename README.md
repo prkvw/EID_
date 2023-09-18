@@ -1,13 +1,11 @@
-# Sample Hardhat Project
+# Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates an auction marketplace for titles to real world assets, implementing the token standards ERC 721 &1155, building on the basic hardhat configuration to
 
-Try running some of the following tasks:
+Deploy to Polygon testnet (Mumbai)
+Deploy to Polygon mainnet
+100% test coverage
+A frontend for user interaction with the smartcontract.
+Query data with a sub-graph
+Use events where necessary to optimize gas.
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
