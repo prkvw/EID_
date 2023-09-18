@@ -1,6 +1,6 @@
 # Project
 
-This project demonstrates an auction marketplace for titles to real world assets, implementing the token standards ERC 721 &1155, building on the basic hardhat configuration to
+This project demonstrates a marketplace for short term lease titles to real assets, implementing the token standards ERC 721 &1155, building on the basic hardhat configuration to
 
 - Deploy to Polygon testnet (Mumbai)
 - Deploy to Polygon mainnet
@@ -14,7 +14,7 @@ This project demonstrates an auction marketplace for titles to real world assets
   - connect wallet
 
     A signed-in user can
-  - view asset collections for sale
-  - create listing
-  - bid on ongoing auction
+  - view collections on sale
+  - create a new listing
+  - bid on a listed auction
 
