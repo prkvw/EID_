@@ -1,6 +1,6 @@
 # Project
 
-This project demonstrates a marketplace for short term lease titles to real assets, implementing the token standards ERC 721 &1155, building on the basic hardhat configuration to
+This project demonstrates a marketplace for real assets, implementing the token standards ERC 1155, building on the basic hardhat configuration to
 
 - Deploy to Polygon testnet (Mumbai)
 - Deploy to Polygon mainnet
